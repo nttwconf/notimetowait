@@ -1,2 +1,2 @@
 # notimetowait
-Docs from the No Time to Wait Symposium
+Tweets and images from the No Time to Wait Symposium
