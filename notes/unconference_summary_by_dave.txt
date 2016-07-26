@@ -1,0 +1,123 @@
+Overview
+Need for high-level understanding of significance of FFV1 (less necessary for MKV) (first two groups) (this is pros but also acknowledging cons)
+Matroska's technical weaknesses (that which is ambiguous, for devs and archivists both -- maybe phrase not as a weakness but as something requiring disambiguation)
+Funding (preforma, local [as in regional] funding networks) / advocacy (outside but also internally, within orgs) / outreach (this is a different category but being ok with writing bad code and releasing it publicly, comfortable asking for and getting help, and more workshops where its safe to fail, "empowerment")
+Kieran's group is kinda focused on building or ensuring creation of tools that facilitate not just archivists but filmmakers actively making films so that if the original source can be something archive-worthy, then that's good
+"shotcut, vlc, natron, virtual dub, avi demux. VL MC Avid Sorenson Squeeze" Adobe Premiere plugin needs to happen so import/export in ffv1 is fine
+Experimental: RGB DPX FFV1 (Reto and Ranggi)
+
+
+Kieran K IGOR -> FFV1 (translate to Executive Speak) 
+PETER! -> FFV1/MKV recommendations/policy criteria for archives
+Michael/Steve -> Matroska/EBML specification \\
+Kieran O:) -> Idea to review ffv1 support in editing software blog post
+Bert -> Archival funding/outreach/advocacy
+
+HI, What did you talk about?
+
+Kieran K IGOR -> FFV1 (translate to Executive Speak) 
+  Thanks Peter for buying ffv1.org!!!!
+  Let's copy mongodb's exec summary for ffv1 buzz!
+  1. so fast, so efficient, lossless, stable, description, "industry" standard ????
+  2. checksum before you wrecksum
+  3. get cliche
+  4. Later, ask Ashley to make a logo. Make the logo bigger!
+  5. Adopt the worst of marketing strategies
+
+
+PETER! -> FFV1/MKV recommendations/policy criteria for archives
+
+  Scan the paper.
+  Let's also fail?
+  The boss is mad, what do we say?
+  Pros for ffv1+mkv.
+    It's lossless, container is lossless except for timecodes and captions
+    Immortal media.
+    No expectations of better are valid.
+    Obsolescence inversion.
+    "Well..." supported or not?
+    Standardization in progress, join us.
+    Less e-waste with lossless.
+    Who else is doing this?
+    For archives, and some archivists participate in design. Participatory and inclusive design.
+    EU > $$$$
+    Exchangability
+    Cost effective
+    Edit without loss, migrate without loss.
+    "it's true yes but...."
+    archival decisions use acknowledged risk
+    built in fixity
+    adoption tipping point
+    facilitates automated workflows, microservice approaches
+    let's make a list of recommendations
+      add credibility from users
+      who's 100% interoperable? No one.
+      ffv1 is interoperable despite specification 
+
+  Cons for ffv1+mkv.
+    larger than lossy. Ain't lossy good nuff? How bout dvds?
+      Georg will support all the pixel formats!!!!!! 16 bit RGB, and 256 bit ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+  What up with ffv1+mkv. I heard about IMF, J2k, and realvideo. Magic eight ball for codec selection.
+
+Michael/Steve -> Matroska/EBML specification \\
+Tobias -> Coding history within files, types of attachments/metadata within the file
+  "So yeah...we mostly talk"
+  giggle fest
+  CELLAR list is going to be busy next week
+  Matroska's weakness, the timestamp management strategy, How to fix with backwards compatibility?
+  We will not be intimidated by timestamp issues.
+  Should define management of coding history and generational data in Matroska
+  First clean your room and then get the new stuff
+  Move webm encryption elements upstream to Matroska
+  Define method for sample accurate seeking and define resolution of contradictions in audio sample reference strategies.
+  Need more documentation on duration-based concepts within Matroska.
+  Review definitions of Segment Linking strategies
+  220 pages is going to get bigggggger
+  B frames, B problems
+  Cellar is gonna get trolled
+
+
+Bert -> Archival funding/outreach/advocacy
+
+  Hi Bert!!
+  1. Funding
+    EU vs US funding schemes
+    Thanks PREFORMA!
+    EU funding benefits from protection from markets. Right UK?
+    Advantages of local funding networks, accessibility of funding by organizing and advocacy
+    What next? What to ask in next funding opportunity?
+
+  2. Advocacy
+
+    #evenlesstimetowait
+    Advocacy within orgs via traversality (sp?). Find dept collaboration with other colleagues on the same level.
+    FFV1 as hypothetical problem. Challenges to even consider such options.
+
+  3. Outreach
+
+    Don't be afraid. Write broken code and try to fix it. We'll help you.
+    Workshops for archivist empowerment. Training as essential for archivist development.
+
+Kieran O:) -> Idea to review ffv1 support in editing software blog post
+
+  Reto/Georg News: contact with MiNi
+  If you could talk to your NLE, what would you say?
+  Shout outs for shotcut, vlc, natron, virtual dub, avi demux. VL MC is coming back! Adobe, help us out.
+  Says Georg, ffv1 export? No problem.
+  Peter documenting ffv1 support on wikipedia, please add more.
+  Can Avid Media Composer read it? Do we believe Peter? Maybe.
+  Sorenson Squeeze is ffmpeg in disguise.
+  Marion already did all of this work.
+  Embedding filter hints in editing lossless files?
+  Ranggi/Reto are experimenting with RGB DPX FFV1. Blog post coming next week.
+  Testing criteria: OS? support various pixel format? export opts? keyboard shortcuts? fill the issue trackers
+  Segmentation with ffmpeg? Skip the NLE and direct to ffmpeg.
+  Use of chapters to guide mkv splitters
+
+
+
+
+
+
+
