@@ -8,7 +8,7 @@ Documentation from the No Time to Wait Symposium (17-19 July 2016)
 
 ## Presentations
 
-(WIP)
+(WIP, videos and links to all slides to come)
 
 ## Working group documents
 
