@@ -8,9 +8,7 @@ Documentation from the No Time to Wait Symposium (17-19 July 2016)
 
 ## Presentations
 
-(WIP, videos and links to all slides to come)
-
-Day 2
+Day 1
 
 * Introduction: Volkmar Ernst & Jürgen Keiper, Ashley Blewer & Dave Rice | [video](https://www.youtube.com/watch?v=1jL3-6tNVv0)
 * PREFORMA Challenge, Erwin Verbruggen | [video](https://www.youtube.com/watch?v=m5-ommDV9Ac)
