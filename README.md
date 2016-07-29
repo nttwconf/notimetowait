@@ -3,7 +3,9 @@
 Documentation from the No Time to Wait Symposium (17-19 July 2016)
 
 /twarc-archive -- Tweets and images using the hashtag #notimetowait
-/presentations -- Slides and other resources from the conference.
+
+/presentations -- Slides and other resources from the conference
+
 /notes -- Notes from the conference
 
 ## Presentations
