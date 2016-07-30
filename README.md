@@ -3,14 +3,14 @@
 Documentation from the No Time to Wait Symposium (17-19 July 2016)
 
 /twarc-archive -- Tweets and images using the hashtag #notimetowait
-/presentations -- Slides and other resources from the conference.
+
+/presentations -- Slides and other resources from the conference
+
 /notes -- Notes from the conference
 
 ## Presentations
 
-(WIP, videos and links to all slides to come)
-
-Day 2
+Day 1
 
 * Introduction: Volkmar Ernst & Jürgen Keiper, Ashley Blewer & Dave Rice | [video](https://www.youtube.com/watch?v=1jL3-6tNVv0)
 * PREFORMA Challenge, Erwin Verbruggen | [video](https://www.youtube.com/watch?v=m5-ommDV9Ac) | [slides](https://github.com/preforma/notimetowait/blob/master/presentations/20160718_berlin_preforma_pdfwithnotes.pdf)
@@ -41,6 +41,6 @@ Day 3
 
 ## Working group documents (Day 2)
 
-[Matroska](https://docs.google.com/document/d/1dkT5cpUWFWXKHXC1132d1ndmwrnVPV7nBeyHAehM5HQ/edit)
-[FFV1](https://docs.google.com/document/d/1lCJ5JRcGdjLvjG6vSZbRL_RnnCX_D_x2rwN57PvbY3s/edit?ts=578dffe5)
-[Preservation](https://docs.google.com/document/d/1omcIEYAA5dpI3xBpxRYX13M1e7PL_2HmFSjaC0rpSZA/edit#)
+* [Matroska](https://docs.google.com/document/d/1dkT5cpUWFWXKHXC1132d1ndmwrnVPV7nBeyHAehM5HQ/edit)
+* [FFV1](https://docs.google.com/document/d/1lCJ5JRcGdjLvjG6vSZbRL_RnnCX_D_x2rwN57PvbY3s/edit?ts=578dffe5)
+* [Preservation](https://docs.google.com/document/d/1omcIEYAA5dpI3xBpxRYX13M1e7PL_2HmFSjaC0rpSZA/edit#)
