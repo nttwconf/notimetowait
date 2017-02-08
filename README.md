@@ -50,3 +50,14 @@ Day 3
 * [Report on MediaConch blog](https://mediaarea.net/MediaConch/2016/07/26/No-Time-To-Wait-Preservation-FFV1-Matroska-Symposium/)
 * [Report on Beeld en Geluid blog](http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201607/tools-trade)
 * [Twitter Storify](https://storify.com/ablwr/no-time-to-wait)
+
+## Streaming  
+
+To stream and record this conference, we used:
+* Mac laptop
+* BlackMagic Design UltraStudio Express (thunderbolt)
+* Small handheld consumer camera
+* Tripod for camera
+* [Open Broadcaster Software](https://obsproject.com/)
+* YouTube (for streaming and uploaded recorded media)
+* For one video ("FFV1 and Matroska: Digitization and Contextualization"), we recorded using an iPhone 6S
